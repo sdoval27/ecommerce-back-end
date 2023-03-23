@@ -5,8 +5,6 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
 
@@ -17,17 +15,12 @@
  Clone this repository and run it on insomnia to Create, Revise, Update, and Delete products from store inventory.
 
 ## Usage:
- n/a
-
-## Contributing:
- n/a
-
-## Tests:
- n/a
+ Reference [this walkthrough video](https://drive.google.com/file/d/1BSdZG6MJ9I1fDu7s-AgCh6lLDi6CwUrW/view?usp=sharing) to see the code in action.
 
 ## License:
  [MIT](https://opensource.org/licenses/MIT)
 
 ## Questions:
- - Visit my github at: [sdoval27](https://github.com/sdoval27)
- - You can contact me at: n/a
+ - Visit my github at: [sdoval27](https://github.com/sdoval27).
+ - Visit this project's repository at: [E-Commerce back end repo](https://github.com/sdoval27/ecommerce-back-end).
+
